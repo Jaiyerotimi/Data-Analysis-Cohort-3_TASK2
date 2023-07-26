@@ -40,6 +40,7 @@ the total revenue generated in this dataset, I added up all the values in column
 
 ## The MAX Function
  The MAX function returns the largest value in a set of values. In this task, column (K) is the Profit column. To know the Highest profit values of this dataset, I used the MAX Function to seek the highest value in the Profit column, =MAX(K2:K701).
+ ![](Highest_Profit_Value.png)
  
 
   
